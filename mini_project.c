@@ -2,7 +2,7 @@
  * mini_project.c
  *
  *  Created on: Sep 14, 2022
- *      Author: Dell
+ *      Author: Mo'men Ahmed
  */
 #include <avr/io.h>
 #include <avr/interrupt.h>
